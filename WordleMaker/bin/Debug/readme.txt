@@ -19,7 +19,7 @@ ReadMe | Wordleめーかー Ver1.00
 	「Wordleめーかー」は、Wordle風のゲームを自由に作成できるフリーソフトです。
 	Windows10(64ビット)で動作します。
 
-・ファイル構成
+・ファイル構成 (WordleMaker/WordleMaker/bin/Debug)
 	Wordleめーかー.exe  (Wordleめーかー本体)
 	List.csv            (単語定義ファイル (サンプルです))
 	readme.md	        (MarkDown形式の説明ファイル)
@@ -29,7 +29,8 @@ ReadMe | Wordleめーかー Ver1.00
 	Wordleめーかー.zipを好きな場所に展開すればインストール完了です。
 
 ・アンインストール方法
-	Wordleめーかー.exeを削除すればアンインストールできます。
+	[1]zipファイルを展開した後にDebugフォルダ(binフォルダの中)を取り出す(残りはコードなので動作には不必要です)。  
+	[2]取り出したフォルダを好きな場所に配置(リネーム可能です)。  
 
 ・Wordle作成方法
 List.csvを編集します。
